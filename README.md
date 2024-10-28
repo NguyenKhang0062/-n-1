@@ -4,23 +4,23 @@ I.	Giới thiệu
     •	Đưa ra dự đoán, chiến lược, kế hoạch sản xuất, đào tạo, sản xuất tiếp theo phù hợp với xu hướng, nhu cầu của xã hội 
     •	Giúp cho các nhà quản trị doanh nghiệp, tổ chức giáo dục, nhà làm phim.., xác định được sản phẩm ưa thích, ngành nghề ưu tiên của các học viên, chủ đề phim mà khán giả ưu thích
   2.	Tầm quan trọng:
-    2.1. Phân tích dữ liệu đánh giá về phim
+   2.1. Phân tích dữ liệu đánh giá về phim
       •	Hiểu thị hiếu của khán giả: Phân tích các đánh giá phim từ người xem giúp các nhà làm phim, nhà sản xuất và phân phối hiểu rõ hơn về thị hiếu của khán giả, từ đó đưa ra quyết định sản xuất nội dung phù hợp, cải thiện trải nghiệm và tăng doanh thu.
       •	Dự đoán xu hướng thị trường: Bằng cách theo dõi sự thay đổi trong sở thích của người xem, các hãng phim có thể dự đoán được xu hướng trong tương lai, ví dụ như sự tăng trưởng của các thể loại phim nhất định (khoa học viễn tưởng, siêu anh hùng, phim tài liệu, v.v.).
       •	Tối ưu hóa marketing và chiến lược phát hành: Dữ liệu từ các đánh giá có thể giúp doanh nghiệp tối ưu hóa chiến lược marketing, phát hành phim vào các thời điểm thích hợp, và định vị sản phẩm theo phân khúc khán giả mục tiêu.
       •	Phát triển nội dung: Những nhận xét cụ thể từ người xem giúp các nhà sản xuất cải tiến kịch bản, diễn xuất, hoặc các yếu tố kỹ thuật để tạo ra các bộ phim có chất lượng cao hơn và phù hợp hơn với nhu cầu của khán giả.
 
-	  2.2 Phân tích dữ liệu đánh giá sản phẩm
+   2.2 Phân tích dữ liệu đánh giá sản phẩm
       •	Cải thiện chất lượng sản phẩm: Phân tích các đánh giá sản phẩm cho phép doanh nghiệp nhận diện những điểm mạnh và yếu của sản phẩm, từ đó cải tiến hoặc phát triển sản phẩm mới nhằm đáp ứng nhu cầu khách hàng.
       •	Tối ưu hóa chiến lược kinh doanh: Doanh nghiệp có thể phát hiện ra các xu hướng tiêu dùng, nhận diện những nhóm khách hàng tiềm năng và tối ưu hóa chiến lược giá, phân phối, và marketing để tăng doanh số bán hàng.
       •	Xây dựng lòng tin và cải thiện thương hiệu: Những doanh nghiệp chủ động lắng nghe và phản hồi các đánh giá của khách hàng thường xây dựng được uy tín và lòng trung thành của khách hàng, điều này đặc biệt quan trọng trong môi trường kinh doanh cạnh tranh.
       •	Phát hiện các vấn đề tiềm ẩn: Các đánh giá tiêu cực giúp phát hiện sớm các vấn đề liên quan đến sản phẩm hoặc dịch vụ, từ đó giúp doanh nghiệp kịp thời khắc phục và tránh những tác động tiêu cực đến thương hiệu.
-    2.3. Phân tích dữ liệu về các ngành học ưa thích của sinh viên
+   2.3. Phân tích dữ liệu về các ngành học ưa thích của sinh viên
       •	Hiểu xu hướng giáo dục: Phân tích dữ liệu về lựa chọn ngành học giúp các trường đại học, chính phủ và các cơ quan giáo dục hiểu được xu hướng học tập và nhu cầu về kỹ năng của sinh viên, từ đó điều chỉnh chương trình đào tạo phù hợp.
       •	Dự báo nguồn cung lao động: Dữ liệu này cung cấp cho chính phủ và các doanh nghiệp thông tin về số lượng lao động tương lai trong các ngành cụ thể, giúp họ dự báo và lập kế hoạch cho nhu cầu nhân lực, đặc biệt trong các ngành kinh tế mũi nhọn hoặc đang phát triển.
       •	Cải thiện chiến lược tuyển sinh: Các trường đại học có thể sử dụng dữ liệu để tối ưu hóa chiến lược tuyển sinh, phát triển các ngành học mới phù hợp với nhu cầu của sinh viên và thị trường lao động.
       •	Định hướng nghề nghiệp cho sinh viên: Dữ liệu giúp sinh viên nắm bắt được xu hướng của thị trường lao động và chọn ngành học có tiềm năng cao hơn về việc làm và phát triển sự nghiệp.
-  +	Trực quan hóa dữ liệu (Data Visualization):
+   2.4	Trực quan hóa dữ liệu (Data Visualization):
     •	Mục tiêu: Biến các tập dữ liệu phức tạp thành các biểu đồ, hình ảnh dễ hiểu, từ đó làm nổi bật các mối quan hệ và xu hướng trong dữ liệu.
     •	Phương pháp: Sử dụng các công cụ trực quan như biểu đồ cột, biểu đồ đường, biểu đồ phân tán, heatmap, hoặc biểu đồ hộp để hiển thị dữ liệu.
     •	Lợi ích: Tăng cường khả năng diễn giải và giao tiếp thông tin, giúp người dùng không chuyên có thể dễ dàng hiểu các phát hiện từ dữ liệu.
